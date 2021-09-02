@@ -1,0 +1,10 @@
+aplicacion\Principal.class
+aplicacion\VentanaPrincipal.class
+jdesktoppane\ClaseJDesktopPane.class
+jframe\ClaseFrame.class
+jtoolbar\ClaseJToolbar.class
+jtabbedpane\ClaseJTabbedPane.class
+jpanel\ClaseJPanel.class
+jscrollpane\ClaseJScrollPane.class
+jdialog\ClaseJDialog.class
+jsplitpane\ClaseJSplitPane.class
