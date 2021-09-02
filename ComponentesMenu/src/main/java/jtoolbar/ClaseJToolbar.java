@@ -33,7 +33,7 @@ public class ClaseJToolbar extends JDialog {
         miPanel.setLayout(null);
 
         //Asigna un titulo a la barra de titulo
-        setTitle("CoDejaVu : JToolbar");
+        setTitle("JToolbar");
 
         /*Propiedades del Label, lo instanciamos, posicionamos y
 		 * activamos los eventos*/
@@ -71,7 +71,7 @@ public class ClaseJToolbar extends JDialog {
         miPanel.add(labelTitulo);
         miPanel.add(areaDeTexto);
         add(miPanel);
-        //tama�o de la ventana
+        //tamaño de la ventana
         setSize(420, 300);
         //pone la ventana en el Centro de la pantalla
         setLocationRelativeTo(null);
